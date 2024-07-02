@@ -6,3 +6,4 @@ stream-chat==4.17.0
 Django==5.0.6
 django-cors-headers==4.4.0
 djangorestframework==3.15.2
+gunicorn==22.0.0
